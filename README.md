@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @smeratus
+- 👀 I’m interested in the development and design of web applications and web pages
+- 🌱 I’m currently learning Javascript and PHP
+- 💞️ I’m looking to collaborate on all types of web pages and web applications
+- 📫 How to reach me, you can contact me through my Linkedin profile linkedin.com/in/josmauro-silva-91772030b or my email Silvajosmauro@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: Although I focus on learning related to the web, my dream is to be a video game developer, perhaps in the future
